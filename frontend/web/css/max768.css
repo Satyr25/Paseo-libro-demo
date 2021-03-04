@@ -1,0 +1,418 @@
+@media (max-width: 768px)
+{
+    #onda-carrusel{
+        display: none;
+    }
+    
+    .row-datos-carrito{
+        display: flex;
+        align-items: center;
+    }
+    .btn-seguir-comprando{
+        margin-bottom: 20px;
+    }
+    .checkout-titulo-carrito{
+        font-size: 20px;
+        padding: 30px 0 20px;
+    }
+    .col-titulo-pedido{
+        padding: 0;
+    }
+    .btn-regresar-carrito{
+        padding-bottom: 20px;
+    }
+    .cupon-subtotal{
+        float: right;
+    }
+    .btn-quitar-checkout{
+        font-size: 18px;
+    }
+    .checkout-beneficios{
+        padding: 20px 5px 0;
+    }
+    .checkout-beneficios > div > .texto-beneficios{
+        margin: 10px 0px;
+        font-size: 12px;
+    }
+    #onda-contacto{
+        display: none;
+    }
+    .row-cupon-form2{
+        position: inherit;
+    }
+    .col-cupon-3{
+        padding: 0 4px 0 0; 
+    }
+    .col-btn-cupon3{
+        padding: 0 0 0 4px;
+    }
+    .row-cupon-form2 > div > .sub-cupon-3{
+        text-align: center;
+        margin: 0 0 10px;
+    }
+    .checkout-numero-envio{
+        font-size: 13px;
+        color: #b9b9b9;
+    }
+    .checkout2-titulo{
+        font-size: 15px;
+    }
+    .checkout2-autor{
+        font-size: 14px;
+    }
+    .checkout2-precio{
+        font-size: 15px;
+    }
+    .checkout2-cantidad{
+        font-size: 18px;
+        color: #0068b3;
+    }
+    .col-checkout-pedido{
+        padding-bottom: 15px;
+    }
+    .info-contacto-mob{
+        padding-right: 0;
+    }
+    
+    .field-pais-id-2 > div > span > span > .select2-selection,
+    .field-estado-id-2 > span > span > .select2-selection--single{
+        border-top: none;
+        box-shadow: none;
+        border-radius: 0;
+        height: 25px;
+        border-left: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        display: flex;
+        align-items: center;
+        background-color: transparent !important;
+    }
+    .btn-regresar{
+        margin: 10px auto 0;
+    }
+    .nav-desk{
+        display: none;
+    }
+    #logo-div{
+        padding: 15px;
+    }
+    .row-menu-mob{
+        display: flex;
+        align-items: center;
+    }
+    #buscar-nav{
+        position: relative;
+        top: -41px;
+        left: 91%;
+    }
+    #buscar2{
+        position: inherit;
+    }
+    #wrap-social{
+        position: inherit;
+        height: 80px;
+    }
+    #logo-div > a > img{
+        width: 115px;
+        min-width: 113px;
+    }
+    #busqueda{
+        height: 67px;
+    }
+    #pad-nav{
+        display: none;
+    }
+    #contacto > div > div > div > .col-md-4{
+        background-color: inherit;
+        padding: 0 10px 25px;
+    }
+    #contacto > div > div > div > div > div > div > p{
+        color: #0b4066;
+    }
+    #contacto a{
+        color: #0b4066;
+    }
+    #contacto > div > div > div > div > p{
+        color: #0b4066;
+    }
+    #contacto > div > div{
+        margin: 25px 0;
+    }
+    #email{
+        width: 100%;
+    }
+    #name{
+        width: 100%;
+    }
+    .btnEnviar{
+        padding: 10px 30px;
+    }
+    .hide-mobile{
+        display: none;
+    }
+    .foot-imagen{
+        max-width: 30px;
+        margin: 10px 10px 0 0;
+        float: left;
+    }
+    .social-foot{
+        display: inline-block;
+        height: 18px;
+        margin: 10px 0 10px 15px;
+        float: right;
+    }
+    #wrap-vendidos > .container{
+        position: inherit;
+    }
+    .mySlides{
+/*        height: 490px !important;*/
+    }
+    #wrap-vendidos > div > div > div > p{
+        padding: 40px 0 0 0;
+        font-family: circularBook;
+        font-size: 30px;
+        font-weight: inherit;
+    }
+    #onda-cultural{
+        display: none;
+    }
+    .row-ficha-ver > div > .ver-autor{
+        margin-bottom: 15px;
+    }
+    .ver-portada{
+        margin-bottom: 20px;
+    }
+    #wrap-agenda > div > div{
+        margin: 40px 0 25px;
+    }
+    #wrap-agenda > div > div > div > p{
+        font-size: 30px;
+        font-weight: inherit;
+        font-family: circularBook;
+    }
+    #wrap-editoriales-index > div > div:first-child{
+        margin: 40px 0 20px;
+    }
+    #wrap-editoriales-index > div > div:last-child{
+        margin: 0 0 30px;
+    }
+    #ubicacion > div > div:first-child{
+        margin: 40px 0 10px;
+    }
+    #ubicacion > div > div:last-child{
+        margin: 0 0 20px;
+    }
+    
+    .col-contactar-nombre{
+        padding: 0 3px 0 0;
+    }
+    .col-contactar-correo{
+        padding: 0 0 0 3px;
+    }
+    #wrap-editoriales-index > div > div > div > p{
+        font-size: 30px;
+        font-weight: inherit;
+        font-family: circularBook;
+    }
+    #ubicacion > div > div{
+        margin: 60px 0 15px;
+    }
+    #ubicacion > div > div > div > .titulo-contacto{
+        font-family: circularBook;
+        font-size: 30px;
+    }
+    .slick-slide > .vendidos-carrusel-titulo{
+        font-size: 18px;
+    }
+    .slick-slide > .vendidos-carrusel-autor{
+        font-size: 20px;
+    }
+    .slick-slide > .vendidos-carrusel-precio{
+        font-size: 24px;
+    }
+    .vendidos-carrusel-titulo{
+        font-size: 18px;
+    }
+    .vendidos-carrusel-autor{
+        font-size: 20px;
+    }
+    .vendidos-carrusel-precio{
+        font-size: 24px;
+    }
+    .aside-mapa{
+        padding: 0;
+    }
+    #ubicacion > div > div > div > div > p{
+        font-size: 18px;
+        margin: 18px 0;
+        color: #0068b3;
+    }
+    #ubicacion > div > div > div > div > div{
+        margin: 0;
+    }
+    #ubicacion > div > div > div > div > div > div > p{
+        color: #0068b3;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    #ubicacion a{
+        color: #0b4066;
+    }
+    .contacto-imagen{
+        margin-top: 25px;
+        margin-bottom: 10px;
+    }
+    #ubicacion > div > div > div > .texto-contacto{
+        font-size: 18px;
+    }
+    .contacto-form::-webkit-input-placeholder{
+        font-size: 14px;
+    }
+    .contacto-form:-moz-placeholder{
+        font-size: 14px;
+    }
+    .contacto-form::-moz-placeholder{
+        font-size: 14px;
+    }
+    .contacto-form::-ms-input-placeholder { 
+        font-size: 14px;
+    }
+    #form-contacto > div:last-child{
+        padding: 0;
+    }
+    .social-foot{
+        opacity: 0.5;
+    }
+    #copy a{
+        font-size: 12px;
+/*        color: #fff;*/
+        opacity: 0.5;
+    }
+    #form-noticias > div:first-of-type{
+        padding: 0 5px 0 15px;
+    }
+    #div-mapa2{
+        padding: 0;
+    }
+    #div-mapa2 > #frame-mapa{
+        margin: 0 0 60px;
+        border: 0;
+        width: 100%;
+        height: 300px;
+    }
+    .catalogo-row-libros6{
+        display: none;
+    }
+    .catalogo-row-libros2{
+        display: block;
+    }
+    
+    #carrusel-titulo{
+/*        font-size: 20px;*/
+        padding: 0;
+    }
+    .img-contenedor-libro{
+        max-height: 550px;
+    }
+    .login-block{
+        top: inherit;
+        width: 100%;
+        padding-top: 0;
+        right: -110%;
+    }
+    .login-block .inner{
+        padding: 0 0 80px;
+    }
+    .boton-regresar{
+        max-width: 18px;
+    }
+    .row-regresar{
+        margin: 20px 0 0 !important;
+    }
+    .link-boton-regresar{
+        font-size: 16px;
+    }
+    #wrap-vendidos > div > .index-vendido-img{
+        margin-top: 0;
+    }
+    .index-agenda-img{
+        margin-top: 0 !important;
+    }
+    
+    .input-resignup-contacto{
+        font-size: 18px;
+    }
+    .input-resignup-envio{
+        font-size: 18px;
+/*        margin-bottom: 5px;*/
+    }
+    .field-cliente-pais-id > div > span > span > .select2-selection, 
+    .field-cliente-estado-id > span > span > .select2-selection--single{
+        font-size: 18px;
+    }
+    .field-cliente-pais-id{
+        margin-bottom: 5px;
+    }
+    .field-cliente-estado-id{
+        margin-bottom: 5px;        
+    }
+    .row-formulario-cliente{
+        padding: 0;
+    }
+    .row-actualizar-cliente{
+        padding: 0 3px;
+    }
+    .row-actualizar-usuario{
+        padding: 0 3px;
+    }
+    .label-cliente{
+        font-family: circularBook;
+        color: #0068b3;
+        font-size: 16px
+    }
+    .canjear-cupon{
+        background-color: #0068b3;
+        color: #ffffff;
+        padding: 10px;
+        width: 100%;
+        display: block;
+        font-family: circularBook;
+        font-size: 18px;
+        text-align: center;
+        border: none;
+        height: inherit;
+    }
+    #ingresar-cupon{
+        height: 38px;
+    }
+    
+    .row-datos-carrito > div:not(:first-child) {
+        justify-content: center;
+    }
+    .datos-checkout2-cantidad{
+        display: grid;
+        justify-content: left;
+        padding: 0;
+    }
+    .social-share{
+        margin: 10px 0 10px 20px;
+        display: inline-block;
+    }
+    .confirmacion-texto{
+        padding: 0;
+    }
+    .row-carrusel-img{
+        max-height: 500px;
+    }
+    .mob-img-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .portada-checkout{
+        max-width: 185px;
+    }
+    .row-datos-carrito2{
+        text-align: center;
+        padding-top: 0;
+    }

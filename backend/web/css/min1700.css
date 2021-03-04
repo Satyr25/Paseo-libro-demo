@@ -1,0 +1,39 @@
+@media (min-width:1700px){
+    
+    .navbar-inverse .navbar-nav > li > a{
+        font-size: 18px;
+    }
+    .input-filtrar::-webkit-input-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    .input-filtrar:-moz-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    .input-filtrar::-moz-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    .wrap-nav-buscar > .container > .row > div > .etiqueta-buscador{
+        font-size: 30px;
+    }
+    .libros-form-titulo{
+        font-size: 30px;
+    }
+    .titulo-login{
+        font-size: 30px;
+    }
+    .text-center > div > .login-texto{
+        font-size: 21px;
+    }
+    .back-login-input{
+        font-size: 18px;
+    }
+    .login-olvidar{
+        font-size: 12px;
+    }
+    .row-foot-login{
+        font-size: 12px;
+    }
+}

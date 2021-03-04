@@ -1,0 +1,47 @@
+@media (min-width:1200px){
+    
+    .separador-pasos{
+        width: 27.9%;  
+    }
+    .separador-pasos-texto{
+        width: 27.9%;
+    }
+    .img-contenedor-libro{
+        max-height: 285px;
+    }
+    .row-carrusel-img{
+        max-height: 275px;
+    }
+    .row-carrusel-img2{
+        height: 230px;
+    }
+    .nosotros-titulo{
+        font-size: 30px;
+    }
+    .nosotros-subtitulo{
+        font-size: 25px;
+    }
+    .nosotros-texto{
+        line-height: 1.5;
+        font-size: 18px;
+    }
+    .contenedor-lista > li{
+        font-size: 18px;
+        line-height: 1.5;
+    }
+    #ubicacion > div > div > div > div > p{
+        font-size: 21px;
+    }
+    #ubicacion > div > div > div > div > div > div > p{
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .backHome{
+        width: 50%;
+        margin: auto;
+    }
+    
+    .no-params{
+        font-size: 24px;
+    }
+}

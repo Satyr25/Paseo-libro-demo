@@ -1,0 +1,520 @@
+@media (min-width:992px) and (max-width: 1300px){
+.imgLogo{
+    width: 15%;
+    margin-right: 3%;
+}
+#navbar a {
+    font-size: 80%;
+}
+select{
+    font-size: 10px;
+}
+#busqueda input {
+    font-size: 14px;
+}
+#iconos img {
+    width: 60%;
+}
+
+.librosTerror{
+    width: 50%;
+}
+
+.relatosTerror{
+    left: 15%;
+}
+
+.textoTerror{
+    right: 17%;
+}
+
+#cont-datos{
+    margin-left:15%;width:70%; padding:15% 0% 10% 0;
+}
+#portada{
+    float:left;width:40%;
+}
+#portada img{
+    width:60%; height:auto;
+}
+
+#carosel .next{
+    margin-top: -70px;
+}
+.prev{
+    margin-top: -70px;
+}
+.next {
+    margin-top: -70px;
+}
+
+#nombre-lib0,
+#nombre-lib1{
+    color:#fff;
+    font-family: 'circularBlack';
+    border-bottom:1px;font-size:60px;text-align:center;line-height: 80px;
+}
+#nombre-lib2{
+    color:#fff;
+    font-family: 'circularBlack';
+    border-bottom:1px;font-size:60px;text-align:center;line-height: 80px;
+}
+#snombre-lib0{
+    font-family: 'circularBlack';
+    border-bottom:1px solid #fff;;font-size:50px;text-align:center;line-height: 80px;
+}
+#snombre-lib1{
+    font-family: 'circularBlack';
+    border-bottom:1px solid #fff;;font-size:50px;text-align:center;line-height: 80px;
+}
+#snombre-lib2{
+    font-family: 'circularBlack';
+    border-bottom:1px solid #fff;;font-size:50px;text-align:center;line-height: 80px;
+}
+#autor-lib{
+    text-align:center;
+    color:#95ecef;font-size:30px;margin-bottom:5%;}
+
+#btnVista
+{
+    background-color:#FFF;border-radius:15px;width: 45%;margin:auto;font-size:20px;
+    padding: 5px 0;
+}
+#btnVista a{
+    color: #43a5aa;
+}
+
+element.style {
+}
+#btnVista a {
+    color: #43a5aa;
+    font-size: 100%;
+}
+
+/* Gracias */
+#gracias{
+    text-align:center;
+    padding-bottom: 4%;
+    padding-left: 15%;
+    
+}
+.titGracias{
+    font-family:'circularBlack';
+    font-size:30px;
+    padding-top:5%;
+    padding-bottom:2%;
+}
+.txtgracias{
+    font-size:18px;
+    text-align:center;
+    margin-left:0%;
+    padding-bottom:4%;
+}
+.txtgracias p{
+    font-size:15px;
+}
+
+/* Redes */
+
+#redes{
+    position: relative;
+    margin-top: 6%;
+}
+#redes-tamaño {
+    width: 20px;
+    margin-bottom: 1%;
+}
+#fb-tamaño {
+    width: 10px;
+    margin-bottom: 1%;
+}
+/* Novedades */
+
+#novedades{
+    padding-bottom: 5%;
+}
+.titlnov {
+    font-size: 30px;
+}
+
+.titulo-nov{
+    font-size: 12px;
+}
+.precio-nov{
+    font-size: 10px;
+}
+
+.titulo-sello {
+    color: #1f5b5f;
+    font-size: 30px;
+    font-family: 'circularBlack';
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.titlventa {
+    font-size: 30px;
+}
+
+.libnov{
+    width:100%;
+    margin: auto auto auto 5.5%;
+}
+.colnov{
+    width: 20%;
+    margin-top: 5%;
+    float: left;   
+}
+
+.colnov img{
+    width: 75%;
+
+}
+
+.btnVermas{
+    border-radius: 3px;
+    position: absolute;
+    background-color: #379fa2;
+    left: 45%;
+    padding: 5px 20px;
+    margin-top: -3%;
+}
+.btnVermas a{
+    color: #fff;
+    font-size: 15px;
+}
+
+.btnVermas:hover{
+    border-radius: 3px;
+    position: absolute;
+    background-color: #1f5b5f;
+    left: 45%;
+    padding: 5px 20px;
+    margin-top: -3%;
+}
+
+.btnVermasven{
+    left: 44%;
+    margin-top: -2%;
+    padding: 5px 20px;
+
+}
+.btnVermasven a{
+    color: #fff;
+    font-size: 15px;
+}
+.btnVermasven:hover{
+    background-color: #1f5b5f;
+        left: 44%;
+    margin-top: -2%;
+    padding: 5px 20px;
+}
+
+/* Lo mas vendido */
+.libnov{
+    width:70%;
+    margin:auto;
+    height: auto;
+    overflow: hidden;
+}
+.colnov{
+    height: 320px;
+    width: 22%;
+    margin-top: 5%;
+    margin-right: 3%;
+    float: left;
+    /* min-height: 650px;*/
+    
+}
+
+.titllib1{
+    margin-bottom: 2%; 
+    font-size: 30px;
+}
+
+/*recompensa*/
+
+#titRecom{
+    font-size: 30px;
+    padding-top: 2%;
+}
+.txtRecom{
+    font-size: 18px;
+    margin-top: 2%;
+}
+.espdown{
+    padding-bottom: 5%;
+}
+
+#regRecom input{
+    margin-top: -1%;
+    border-radius: 5px;
+    float: left;
+    position: absolute;
+    left: 25%;
+    z-index: 10;
+    padding: 2px 20px;
+    width: 40%;
+    text-align: center;
+    color:#28373e;
+}
+.btnRegistrar{
+    margin-top: -1%;
+    border-radius: 5px;
+    position: absolute;
+    background-color: #379fa2;
+    left: 65.5%;
+    padding: 4px 20px;  
+}
+.btnRegistrar:hover{
+    margin-top: -1%;
+    border-radius: 5px;
+    position: absolute;
+    background-color: #1f5b5f;
+    left: 65.5%;
+    padding: 4px 20px;  
+    
+}
+.btnRegistrar a{
+    color: #fff;
+    text-decoration: none;
+}
+
+/*footer*/
+
+
+#formcontact{
+    width:50%;
+}
+
+/***********************Contacto****************************************************/
+#titlContac{
+    font-size: 30px;
+}
+.info-contacto{
+    margin-left: 20%;
+    margin-right:5%;
+}
+.direccion-contacto{
+    width: 30%;
+    float: left;
+    font-size: 12px;
+    font-family: 'circularBook';
+}
+.telefono-contacto{
+    width: 30%;
+    float: left;
+    font-size: 12px;
+    font-family: 'circularBook';
+}
+.correo-contacto{
+    width: 30%;
+    float: left;
+    font-size: 12px;
+    font-family: 'circularBook';
+}
+.texto-contacto{
+    float: left; text-align: left; margin-left: 10px;
+    font-family: 'circularBook';
+    font-size: 12px;
+}
+.iconos-info-contacto{
+    float: left;
+    width: 10%;
+}
+.iconos-info-contacto img{
+    width: 40%;
+}
+.redes-contacto{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right:5%;
+}
+.r-sociales{
+    width:10%;
+    float: left;
+
+}
+.ache-erre{
+    width: 45%;
+    float: left;
+}
+.ache-erre hr{
+    margin-top: 2%;
+    width: 57%;
+    color: #3fa3a5;
+}
+.iconos-contacto{
+    margin-right: 30%;
+}
+.iconos-facebook{
+    margin-left: -170%;
+    margin-right: 30%;
+}
+.iconos-contacto img{
+    width: 20%;
+}
+.iconos-facebook img{
+    width: 10%;
+}
+
+.libnov{
+    width:70%;
+    margin:auto;
+    height: auto;
+    overflow: hidden;
+}
+.colnov{
+    height: 420px;
+    width: 22%;
+    margin-top: 5%;
+    margin-right: 3%;
+    float: left;
+    /* min-height: 650px;*/
+    
+}
+.colnov a:hover{
+    text-decoration: none;
+}
+.colnov img{
+    width: 100%;
+}
+
+.libnovindex{
+    width:70%;
+    margin:auto;
+    height: auto;
+    overflow: hidden;
+}
+.colnovindex{
+    width: 22%;
+    margin-top: 2%;
+    margin-right: 3%;
+    float: left;
+    /* min-height: 650px;*/
+    
+}
+.colnovindex a:hover{
+    text-decoration: none;
+}
+.colnovindex img{
+    width: 100%;
+}
+
+.slid-mob{
+    display: none;
+}
+.portada-mob{
+    display: none;
+}
+
+}
+/*#izquierda{
+    width: 100%;
+    float: none;
+}
+.etcorreo{
+    font-size:14px;
+    padding:1%;
+    width: 90%;
+}
+.btninvitado{
+    text-align: center;
+    width: 76.5%;
+}
+.btninvitado a{
+    font-size: 12px;
+    color: #fff;
+}
+.btnsesion{
+    display: none;
+    text-align: center;
+    margin-top: 12%;
+    margin-left: 0%;
+    width: 76.5%;
+}
+.tipo-tarjeta{
+    margin-left: 25%;
+}
+.formas{
+    margin-left: 0%;
+}
+.derecha{ 
+    background-color: #F8F9F9;
+    width: 103%; 
+    position: relative;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    right: 0px;
+    max-height: 86.3%;
+}
+.imgcheck{
+    display: none;
+}
+.datos-lib{
+    margin-top: 10%;
+}
+.tit-datos {
+    font-size: 15px;
+}
+.autor-datos {
+    font-size: 13px;
+}
+.pre-datos {
+    font-size: 15px;
+}
+.cantidad{
+    font-family: 'circularMedium';
+    color: gray;
+}
+.hrs{
+    margin-left: 35px;
+    margin-top: 5%;
+    width: 85%;
+
+}
+.hr2{
+    margin-left: 35px;
+    margin-top: 3%;
+    width: 85%;
+}
+.descuentos input{
+    margin-left: 100px;
+    width: 45%;
+    font-size:15px;
+    padding:3px;
+}
+.descuentos a{
+    text-decoration:none;
+    border-radius: 3px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: #1f5b5f;
+    padding: 8px 50px;
+    font-family: 'circularBook';
+    color: #fff;
+}
+.btnpago-check{
+    border-radius: 3px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    font-family: 'circularBook';
+    pointer-events: none;
+    cursor: default;
+}
+.btnpago-activo{
+    border-radius: 3px;
+    width: 80%;
+    margin-left: 10%;
+    font-family: 'circularBook';
+    text-align: center;
+}
+.derecha-altura{ 
+    right: 0;
+    background-color: #F8F9F9;
+    width: 100%; 
+    position: relative;
+    height: auto;
+    overflow: hidden;
+}  */

@@ -1,0 +1,1980 @@
+@media all and (max-width: 375px)
+{
+        
+    .desk{
+        display: none;
+    }
+    .contenedor,
+    .contenedor2{
+        display: none !important;
+    }
+    
+    #navbar{
+        visibility: hidden;
+    }
+    #navbar-mov{
+        display: block;
+        position:fixed;
+        z-index: 1000000;
+        width: 100%;
+        height: 85px;
+    }
+    #espacio-nav{
+        display: block;
+        height: 80px;
+    }
+
+    .recom_left{
+        width: 100%;
+    }
+
+    .recom_right{
+        width: 100%;
+    }
+
+    .terminos-detalle{
+        width: 100%;
+        margin-left: 0%;
+        padding-top: 5%;
+        font-size: 16px;
+    }
+
+    .btnPromoPoesia{
+        width: 50%;
+    }
+
+    .poesiaText{
+        font-size: 40px;
+    }
+
+    #modal-ver-promo .close-modal{
+        background-color: #fff;
+        border-radius: 25px;
+    }
+
+    .mailes {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .help-correo2{
+        margin-top: 15px;
+        left: 22%;
+    }
+
+    .btnRegistrar2{
+        float: unset;
+        margin-top: 15px;
+    }
+
+    .titulo-informacion{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%; 
+    }
+
+    .titulo-direccion{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%; 
+    }
+
+    .modal-term-fal{
+        width: 95% !important;
+    }
+
+    .modal-body-f .titlt{
+        font-size: 17px;
+        margin: 10% 0 10% 0;
+    }
+
+    .form-dat-user {
+        width: 90%;
+        padding-top: 0px;
+    }
+
+    .etdos_d{
+        width: 100%;
+        float: unset;
+        margin-left: unset;
+    }
+
+    .icono_editar{
+        width: 30px;
+    }
+
+    .et_c{
+        width: 100%;
+        float: unset;
+        margin-left: unset;
+
+    }
+
+    .regresarlista{
+        top: 85px;
+        left: 10%;
+    }
+
+    .sub-tot-lib{
+        text-align: right;
+    }
+
+    #total-fin-libros{
+        display: none;
+    }
+
+    .det-lib{
+        padding-bottom: 15px!important;
+    }
+
+    #sub-tot-lib{
+        padding-top: 15px!important;
+    }
+
+    .vent-table{
+        width: 100% !important;
+    }
+
+    .sp-marg{
+        min-width: auto!important;
+        width: auto!important;
+    }
+
+    .info-lib-tab-ped{
+            width: 100%!important;
+    }
+
+    #modal-ver-pedidos{
+        margin-top: 30%;
+    }
+
+    .promo{
+        font-size: 15px;
+    }
+
+    .no-bord{
+        border: none!important;
+    }
+
+    .dat-compr{
+        width: 126% !important;
+        margin-left: -13%!important;
+        margin-bottom: -13%!important;
+    }
+
+    .btnVerguia{
+        padding: 12px 0px !important;
+        width: 87% !important;
+    }
+
+    .btnVerguia a{
+        font-size: 16px!important;
+    }
+
+    .right-data{
+        padding-left: 10%!important;
+    }
+
+    .help-correo{
+        left: 22%;
+        margin-top: 40px;
+    }
+
+    .orig{
+        font-size: 13px;
+    }
+
+    .pleca-promo{
+        font-size: 12px;
+        right: 0;
+        top: 20px;
+    }
+
+    .titulo-direccion hr{
+        width: 100%;
+    }
+
+    #iconos{
+        left: 89%;
+        top: 18%;
+        width: 4%;
+        display: block;
+    }
+
+    .men-desk{
+        display: none;
+    }
+
+    .men-mob{
+        display: inline-block;
+    }
+
+    .numbolsa{
+        bottom: 70%;
+    }
+
+    .login-user{
+        width: 100%;
+        height: calc(100% - 80px);
+    }
+
+    .titulo-informacion-sin{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%; 
+    }
+
+    .titulo-verde{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%; 
+    }
+
+    hr{
+        width: 100%;
+    }
+
+    .hrs{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hr2{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .etuno{
+        width: 100%;
+    }
+
+    .etdos{
+        width: 50%;
+    }
+
+    .ettres{
+        width: 33.33%;
+    }
+
+    .etdosenuno{
+        width: 25%;
+    }
+
+    .precio-envio{
+        float: right;
+    }
+
+    .centrar{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .producto{
+        width: 100px;
+    }
+
+    .detalle-lista{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .titbol{
+        margin-top: 10%;
+    }
+
+    .detalle-lista-bolsa{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .datos-lib{
+        margin-top: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        text-align: center;
+    }
+
+    #contacto-check{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+
+    #cont-end{
+        margin-left: 10%;
+        width: 80%;
+        margin-right: auto;
+    }
+
+    .etcorreo{
+        font-size:16px;
+        padding: 11px 1%;
+        width: 100%;
+    }
+
+    .continuar-us{
+        margin-left: 0;
+    }
+
+    .btninvitado{
+        text-align: center;
+        width: 80%;
+        padding: 12px 30px;
+    }
+
+    .descuentos{
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .usar-puntos{
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    #logo-mobile img{
+        z-index: 5;
+        width: 30%;
+        margin: 10px auto;
+        display: block;
+    }
+
+    .no-scroll{
+        overflow: hidden;
+    }
+
+    .sub-total{
+        margin-left: 50px;
+    }
+
+    .total{
+        margin-left: 50px;
+    }
+
+    #icono-bolsa-mob {
+        left: 80%;
+        top: 15px;
+    }
+
+    #btnSeguimiento{
+        width: 73%;
+    }
+
+    #bolsa_main {
+            float: right;
+            margin-right: 5%;
+            margin-top: -18%;
+
+            width: 5%;
+    }
+    #bus_main{
+        background-color:#fff;
+        margin: 1% 5% 3% 5%;
+    }
+
+    #bus_main input{
+        border: none;
+        width: 90%;
+    }
+    .img_bus{
+        width: 5%;
+        margin: 1% 1% 0 0;
+        float: right;
+    }
+    .selector{
+        font-size: 12px;
+        width: 50%;
+        text-align: justify;
+        padding: 6px 20px; 
+    }
+
+    .desk-detalle{
+        display: none;
+    }
+
+    .mob-detalle{
+        display: block;
+    }
+
+    .desplegar-menu{
+        transition: all .3s linear;
+        height: 20px;
+        width: 33px;
+        margin-right: 0 !important;
+    }
+
+    .desplegar-menu.desplegado{
+        border-color: #fff;
+    }
+
+    .desplegar-menu::before{
+        background-color: #fff;
+        content: "";
+        height: 2px;
+        right: 22px;
+        position: absolute;
+        transition: all .3s linear;
+        top: 14px;
+        width: 20px;
+    }
+
+    .desplegar-menu::after{
+        background-color: #fff;
+        content: "";
+        height: 2px;
+        right: 22px;
+        position: absolute;
+        transition: all .3s linear;
+        top: 23px;
+        width: 20px;
+    }
+
+    .desplegar-menu.desplegado::before{
+        background-color: #fff;
+        -ms-transform: rotate(45deg) translate(3px,2px);
+        transform: rotate(45deg) translate(3px,2px);
+    }
+
+    .desplegar-menu.desplegado::after{
+        background-color: #fff;
+        -ms-transform: rotate(-45deg) translate(4px,-3px);
+        transform: rotate(-45deg) translate(4px,-3px);
+    }
+
+    #menu-mobile .wrapper{
+        display: inline-block;
+        height: 100%;
+        position: relative;
+        width: 80%;
+        margin: 0 10%;
+        opacity: 1;
+    }
+    .redes-menu{
+        position: relative;
+        display: inline-block;
+        text-align: left;
+        width: 85%;
+        margin: 5% 5%;
+    }
+
+    .no-scroll{
+        overflow: hidden;
+    }
+
+    .iconos-menu img{
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+
+    #menu-mobile .wrapper .listMenu{
+        display: inline-block;
+        width: 85%;
+        margin: 12% 0% 50px 5%;
+        position: relative;
+    }
+
+
+    #menu-mobile ul li ul li{
+        border: none;
+        color: #95eced;
+    }
+
+    #menu-mobile ul li ul li a{
+        color: #95eced;
+        padding: 0px 20px;
+        font-size: 1.2em;
+    }
+
+
+    .listMenu ul li ul{
+        line-height: 1;
+        margin-bottom: 10px !important;
+    }
+
+
+    #menu-mobile li a::before {
+        font-size: .3em;
+        font-weight: normal;
+        left: 30px;
+        top: 35%;
+    }
+
+    #menu-mobile li a.seleccionado::before {
+        font-size: 1em;
+        left: 25px;
+        top: 0;
+    }
+
+    #menu-mobile li a::before {
+        color: transparent;
+
+        height: 100%;
+        position: absolute;
+        width: 0;
+
+        -webkit-transition: color 1s;
+        -moz-transition: color 1s;
+        -o-transition: color 1s;
+        transition: color 1s;
+    }
+
+    /******************************************Fin de menu-mobile******/
+
+    .imgLogo{
+        width: 10%;
+        margin-right: 7%;
+    }
+    #navbar a {
+        font-size: 40%;
+    }
+    #portada-0, #portada-3, #portada-1, #portada-2, #portada-4, #portada-5, #portada-6{
+        float: left;
+        width: 100%
+    }
+
+    #cont-datos{
+        margin: 0 auto;
+        width: 90%;
+        padding: 0;
+        height: 100%;
+        display: grid;
+        align-content: center;
+    }
+
+
+    #portada-0 img, #portada-1 img, #portada-2 img, #portada-3 img, #portada-4 img, #portada-5 img, #portada-6 img{
+        width:80%; 
+        height:auto;
+        position: relative;
+        top: -10px;
+        display: inline-block;
+    }
+
+    #datoslibro{
+        width: 100%;
+        display: none;
+    }
+
+
+    #nombre-lib{
+        color:#fff;
+        font-family: 'circularBlack';
+        border-bottom:1px;
+        font-size:35px;
+        text-align:center;
+        line-height: 30px;
+
+    }
+
+    .slid-mob{
+        display: grid;
+        align-items: center;
+        height: calc(95% + 10px);
+        flex-direction: column;
+        align-content: center;
+    }
+    .portada-mob{
+        display: block;
+    }
+
+    #snombre-lib{
+        font-family: 'circularBlack';
+        border-bottom:1px solid #fff;;font-size:35px;text-align:center;line-height: 30px;
+    }
+
+    .btnVista-0, .btnVista-3, .btnVista-4, .btnVista-5, .btnVista-6{
+        width: 85%;
+        margin-left: 8%;
+    }
+    .btnVista-0 a{
+        padding: 12px 0;
+        font-size:16px;
+    }
+    .btnVista-0:hover, .btnVista-3:hover, .btnVista-4:hover, .btnVista-5:hover, .btnVista-6:hover{
+        background-color:#43a5aa;
+        width: 85%;
+        margin-left: 8%;
+        margin-right: 40%;
+        font-size:16px;
+    }
+    .btnVista-0 a:hover, .btnVista-3 a:hover, .btnVista-4 a:hover, .btnVista-5 a:hover, .btnVista-6 a:hover{
+        padding: 12px 0;
+        font-size:16px;
+    }
+    .btnVista-1 {
+        width: 85%;
+        margin-left: 8%;
+    }
+    .btnVista-1 a, .btnVista-3 a, .btnVista-4 a, .btnVista-5 a, .btnVista-6 a{
+        padding: 12px 0;
+        font-size:16px;
+    }
+    .btnVista-1:hover{
+        background-color:#43a5aa;
+        width: 85%;
+        margin-left: 8%;
+        margin-right: 40%;
+        font-size:16px;
+    }
+    .btnVista-1 a:hover{
+        padding: 12px 0;
+        font-size: 16px;
+    }
+    .btnVista-2 {
+        width: 85%;
+        margin-left: 8%;
+    }
+    .btnVista-2 a{
+        padding: 12px 0;
+        font-size: 16px;
+    }
+
+    #autor-lib {
+        font-size: 25px;
+    }
+    .prev, .next {
+        display: none;
+    }
+    .btnVista-2:hover{
+        background-color:#43a5aa;
+        width: 85%;
+        margin-left: 8%;
+        margin-right: 40%;
+    }
+    .btnVista-2 a:hover{
+        padding: 12px 0;
+        font-size:16px;
+    }
+    /*Logearse*/
+
+    .logearse {
+        width: 35%;
+        height: 100%;
+        left: 65%;
+        /*margin-left: 0%;*/
+    }
+    .cerrar{
+        margin-left: 80%;
+    }
+    .etLog{
+        width: 70%;
+        font-size:10px;
+
+    }
+    #btnLogin{
+        border-radius: 15px;
+        background-color: #379fa2;
+        color: #fff;
+        font-size: 10px;
+        border: none;
+        margin-bottom: 5%;
+        margin: 5%;
+        width: 70%;
+        padding-right: 50%;
+    }
+    #btnSignup{
+
+        border-radius: 15px;
+        background-color: #379fa2;
+        color: #fff;
+        font-size: 10px;
+        border: none;
+        margin-bottom: 5%;
+        float: left;
+        right: 20%;
+        width: 60%;
+        padding-right: 50%;
+    }
+    .titLogin{
+        font-size:20px;
+        padding-top:-2%;
+        padding-bottom:2%;
+    }
+
+    .thanks{
+        padding: 0 0%;
+    }
+
+    .txtlogin{
+        font-size:15px;
+        padding-bottom:4%;
+        padding-top: 3%;
+    }
+
+    #titlContac{
+        font-size: 25px;
+    }
+
+    .marcas {
+        width: 90%;
+    }
+
+    .col5{
+        width: 33.33%;
+    }
+
+
+    /* Gracias*/
+
+    #gracias{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .titGracias{
+        font-size:25px;
+        padding-top:5%;
+        margin-left: 5%;
+        padding-bottom:2%;
+    }
+    .txtgracias{
+        font-size:12px;
+        text-align:center;
+        margin-left:5%;
+        padding-bottom:1%;
+    }
+    .txtgracias p{
+        font-size:18px;
+    }
+
+    .txtgracias p b{
+        font-size:20px;
+    }
+    /*Temas*/
+    .contenedor {
+      position: absolute;
+      z-index: 1;
+      bottom: -15%;
+      cursor: pointer;
+      margin: 50px 20px;
+      float: left;
+    }
+
+    .contenedor img {
+      position: absolute;
+      left: 0;
+      width: 20px;
+      transition: opacity 0.5s ease-in-out;
+    }
+
+    .contenedor img.top:hover {
+      opacity: 0;
+    }
+    .contenedor2 {
+      position: absolute;
+      left: 85%;
+      z-index: 1;
+      bottom: -15%;
+      cursor: pointer;
+      margin: 50px 20px;
+      float: left;
+    }
+
+    .contenedor2 img {
+      position: absolute;
+      left: 0;
+      width: 20px;
+      transition: opacity 0.5s ease-in-out;
+    }
+
+    .contenedor2 img.top2:hover {
+      opacity: 0;
+    }
+
+    .colf img {
+        position: relative;
+        transform: none;
+        transition: none;
+
+    }
+    .colf .mascara {
+        color: #fff;
+        transition: none;
+        position: relative;
+        bottom: 49px;
+    }
+    .mascara h2{
+        font-size: 18px;
+        transform: none;
+        color: #fff;
+        transition: none;
+        opacity: 1;
+        position: relative;
+        bottom: 0;
+        margin-left: 5px;
+        margin-right: 5px;
+        background-color: rgba(0,0,0,0.5);
+        height: auto;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .colf:hover img {
+        position: relative;
+        background-color: rgba(0,0,0,0);
+        filter:none;
+        position: relative;
+        transform: none;
+    }
+    .colf:hover .mascara {
+        margin-top: unset;
+        opacity: 1;
+        color: #fff;
+    }
+    .colf:hover h2{   
+        transform: none;
+        opacity: 1;
+    }
+    /*redes*/
+
+    #redes{
+        display: none;
+        /*position:absolute;left:95%;top:100%;*/
+    }
+
+    /*novedades site*/
+    #novedades{
+        background-color: #f4f6f6;
+        text-align: center;
+        overflow: visible;
+        margin-top: -10%;
+    }
+    .novedadindex{
+        margin-bottom: 10%;
+        padding: 0;
+        margin-left: 0; 
+    }
+
+    .titlnov{
+        margin-top: 0%;
+        margin-bottom: 0%;
+        font-size: 25px;
+    }
+    .titulo-nov{
+        font-size: 16px;
+        margin-top: 10%;
+    }
+    .precio-nov{
+        font-size: 16px;
+    }
+
+    .libnov{
+        width: 100%;
+        margin-left: 0;
+    }
+    .colnov{
+        width: 45%;
+        float: left;
+        margin-right: 2.5%; 
+        margin-left: 2.5%; 
+        min-height: 390px; 
+    }
+
+    .colnov img{
+        width: 100%;
+        margin: auto 0;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    .libnovindex{
+        width:100%;
+        margin: 5% 0 0 0;
+    }
+    .colnovindex{
+        width: 45%;
+        margin-right: 2.5%;
+        margin-left: 2.5%;
+        margin-bottom: 0;
+        margin-top: 0;
+        min-height: 390px;
+    }
+
+    .colhome{
+        min-height: 340px;
+    }
+
+    .colnovindex img{
+        width: 100%;
+        margin: auto 0;
+        height: 100%;
+        object-fit: contain;
+    }
+    .btnVermas{
+        border-radius: 5px;
+        position: absolute;
+        background-color: #379fa2;
+        left: 25%;
+        padding: 12px 20px;
+        width: 50%;
+        margin-top: -15%;
+        font-family: 'circularBook';
+        text-decoration: none;
+    }
+    .btnVermas a{
+        color: #fff;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .btnVermas:hover{
+        border-radius: 5px;
+        position: absolute;
+        background-color: #1f5b5f;
+        left: 25%;
+        padding: 12px 20px;
+        width: 50%;
+        margin-top: -15%;
+        font-family: 'circularBook';
+        text-decoration: none;
+    }
+
+    .btnVermasven{
+        border-radius: 5px;
+        position: absolute;
+        background-color: #379fa2;
+        left: 25%;
+        padding: 12px 20px;
+        width: 50%;
+        margin-top: 4%;
+        font-family: 'circularBook';
+        text-decoration: none;
+    }
+    .btnVermasven a{
+        color: #fff;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .btnVermasven:hover{
+        border-radius: 5px;
+        position: absolute;
+        background-color: #1f5b5f;
+        left: 25%;
+        padding: 12px 20px;
+        width: 50%;
+        margin-top: 4%;
+        font-family: 'circularBook';
+        text-decoration: none;
+    }
+
+    /*recompensa*/
+
+    #titRecom{
+        font-size: 25px;
+        padding-top: 3%;
+    }
+    .txtRecom{
+        font-size: 18px;
+        margin: 3% 5% 0 5%;
+        text-align: center;
+    }
+    .espdown{
+        padding-bottom: 0%;
+    }
+    #regRecom{
+        display: inline-block;
+        position: relative;
+        width: 80%;
+        margin: 0 10%;
+    }
+
+    #regRecom input{
+        float: left;
+        position: unset;
+        padding: 7px 0px;
+        width: 70%;
+        text-align: center;
+        border: none;
+        font-size: 14px;
+        height: 40px;
+    }
+
+    .btnRegistrar:hover {
+        padding: 12px 15px;
+        width: 30%;
+        float: left;
+        position: unset;
+        font-size: 16px;
+    }
+
+    .btnRegistrar {
+        padding: 12px 15px;
+        width: 30%;
+        float: left;
+        position: unset;
+        font-size: 16px;
+        border: none;
+    }
+    /*Sello*/
+    .titulo-sello{
+        font-size: 25px;
+    }
+
+    /*lo ms vendido*/
+    #librerias{
+        margin-bottom: 10%;
+    }
+
+
+    .titllib1{
+        margin-top: -5%;
+        margin-bottom: 5%; 
+        font-size: 25px;
+    }
+
+    /* Testimonios*/
+    .titltes{
+        font-size: 25px;
+    }
+    .titulot {
+        margin-left: 10%;
+        text-align: unset;
+        font-size: 16px;
+    }
+    .preciot{
+        margin-left: 10%;
+        font-size: 18px;
+    }
+    .coltes img{
+        margin-left: 70px;
+        width: 50%;
+        height: 10%;
+    }
+
+    .clear {
+        padding-bottom: 7%;
+    }
+
+    .help-noticia{
+        margin-top: -5px;
+        left: 35%;
+    }
+
+    .portada{
+        height: 240px;
+    }
+
+    .portada-desk{
+        display: none;
+    }
+
+    /*venta*/
+
+    #puntos-venta{
+        margin-bottom: 5%;
+    }
+    .titlventa{
+        font-size: 25px;
+    }
+
+    #contacto{
+        display: block;
+    }
+
+    .direcc{
+        display: none;
+    }
+
+    .textos-contactos-mob{
+        display: block;
+    }
+
+    .telefono-contacto{
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .correo-contacto{
+        width: 100%;
+        margin: 25px 0;
+    }
+
+    .iconos-info-contacto {
+        float: left;
+        width: 10%;
+    }
+
+    /*contacto*/
+
+    .info-contacto {
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    #txtContac {
+        margin: 30% 10% 0 10%;
+    }
+
+    .help-block{
+    }
+
+    .etdos{
+        width: 100%;
+    }
+
+    .etuno{
+        width: 100%;
+    }
+
+    .etdosenuno{
+        width: 50%;
+    }
+
+    .ettres{
+        width: 100%;
+    }
+
+    .iconos-facebook img {
+        width: 10%;
+    }
+
+    #formcontact {
+        width: 80%;
+        margin: 0 10%;
+    }
+
+    #btnEnviar {
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 40px
+    }
+
+    #btnEnviar:hover {
+        font-size: 16px;
+        padding: 12px 40px
+    }
+
+    .texto-contacto{
+        width: 85%;
+        float: left;
+        pointer-events: none;
+        font-size: 18px;
+    }
+
+    .texto-contacto span{
+        text-decoration:none; 
+        color:inherit;
+    }
+
+    .iconos-contacto img {
+        width: 10%;
+    }
+
+    .ache-erre hr {
+        width: 100%;
+    }
+    .iconos-contacto {
+        margin: 0;
+    }
+
+    .redes-contacto {
+        margin: 10% 12%;
+    }
+
+    .ache-erre{
+        width: 20%;
+        float: left;
+    }
+
+    .r-sociales {
+        width: 60%;
+        float: left;
+    }
+
+    .iconos-facebook {
+        margin: 0;
+    }
+    .iconos-info-contacto {
+        float: left;
+        width: 10%;
+    }
+
+    .direccion-contacto{
+        width: 100%;
+        font-size: 16px;
+    }
+
+    /*footer*/
+    #foot{
+        font-size: 10px;
+        text-align: center;
+        padding: 30px 0 45px;
+    }
+
+    .marcas-foot{
+        left: 26%;
+        margin-top: 3%;
+    }
+
+    #foot span{
+        font-size: 18px;
+        margin:0 5%;
+        display: inline-block;
+        padding-bottom: 0;
+    }
+    #copy{
+        margin-top: 10%;
+    }
+
+    #copy a{
+        font-size: 16px;
+    }
+
+    /*navBaar*/
+
+    .slideshow-container {
+        display: block;
+    }
+    .mySlides {   /* 
+        background-blend-mode: multiply;
+        width:100%;*/
+        height: 340px !important;
+        background-position: center;
+        /*background-size: auto 100% !important;*/
+        text-align:center;
+        position: relative;  float: left;
+        background-attachment: scroll; 
+
+    }
+
+    /* **************************************************************************************** */
+    /*Modal*/
+
+    .modal-cat {
+        margin-top: 30%;
+        width: 90%;
+    }
+
+    .modal-header {
+        padding:15px 16px;
+        background-color: #61b5b7;
+        color: white;
+    }
+    .modal-header img{
+        width: 25%;
+    }
+    /*.img-mod{
+        margin: 8% 0 -2% 8%;
+        width: 35%;
+    }*/
+
+
+    .img-portada{
+        width: 85%;
+        margin: -5% 5%;
+    }
+
+    #portada-modal{
+        width: 80%;
+        margin: 0 10%;
+        min-height: unset;
+    }
+
+    .carrito-add{
+        display: inline-block;
+        width: 80%;
+        margin: 0 10%;    
+    }
+    #portada-modal img{
+        width: 100%; 
+        height:auto;
+        margin: 0;
+    }
+    .titulo-mod {
+        text-transform: capitalize;
+        text-align: left;
+        font-family: 'circularMedium';
+        font-size: 20px;
+    }
+    .precio-mod {
+        text-align: left;
+        font-size: 16px;
+        font-family: 'circularBlack';
+        font-weight: bold;
+    }
+
+    .pleca-promo-libro-bolsa{
+        left: 24%;
+        font-size: 12px;
+    }
+
+    .precio-mod .promo{
+        font-size: 14px;
+    }
+
+    .precio-mod .orig{
+        font-size: 12px;
+    }
+
+    .bolsaindex{
+        padding-top: 0;
+    }
+
+    .modal-body {
+        padding: 0;
+        margin: 10% 10%;
+    }
+
+    .modal-body-terminos {
+        padding: 0;
+        margin: 5% 10%;
+    }
+
+    .modal-terminos{
+        margin: 27% 0 5% 0;
+    }
+    #modal-ver-puntos{
+        margin: 27% 0 5% 0  !important;
+    }
+    .texto-mod {
+        text-align: justify-all;
+        font-size: 18px;
+        width: 100%;
+        padding: 5% 0;
+    }
+    .blocker-cat {
+        padding: 0;
+    }
+
+    .datos-libro-detalle{
+        font-size: 17px;
+    }
+
+    .pleca-promo-libro{
+        top: 150px;
+        right: 7%;
+        position: absolute;
+    }
+
+    .addbolsa{
+        left: 0%;
+        padding: 10px 67px;
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        display: inline-block;
+        margin-top: 5%;
+        margin-bottom: 8px;
+    }
+
+    .mensaje-carrito{
+        margin: 2% auto 5% 0%;
+    }
+
+    .comprarbolsa{
+        left: 0%;
+        padding: 10px 75px;
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        display: inline-block;
+    }
+
+    .titulo-informacion-sin{
+        margin-left: 10%;
+    }
+
+    .titulo-informacion{
+        margin-left: 10%;
+    }
+
+    .titulo-verde{
+        margin-left: 10%;
+    }
+
+    .titulo-direccion{
+        margin-left: 10%;
+    }
+
+    .portada-modal-rel{
+        height: 240px;
+    }
+
+    .titulo-novrel{
+        font-size: 16px;
+    }
+
+    .precio-novrel{
+        font-size: 16px;
+    }
+
+    .tit-rel{
+        color: #1f5b5f;
+        font-size: 25px;
+        text-align: center;
+        font-family: 'circularBlack';
+        margin: 5% 0 5% 7%;
+
+    }
+    .librel{
+        width:100%;
+        margin-left: 2.5%;
+    }
+    .colrel{
+        width: 45%;
+        margin-top: 5%;
+        margin-right: 2.5%; 
+        margin-left: 0%; 
+
+    }
+    .colrel img{
+        width: 100%;
+        object-fit: contain;
+        height: 100%;
+    }
+    .tit-lib{
+        color: #1f5b5f;
+        font-size: 15px;
+        text-transform: capitalize;
+        font-family: 'circularBlack';
+    }
+
+    .tit-lib:hover{
+        text-transform: capitalize;
+    }
+    /* index nosotros *********************************************************************/
+    #nos{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .imglib{
+        background-size:500px;
+        height:200px;
+    }
+    .titlc{
+        font-size: 15px;
+        margin:10% 0 2% 0;
+    }
+    .titlt{
+        font-size: 22px;
+        margin:10% 0 0% 0;
+    }
+    .textc span{
+        font-size: 18px;
+    }
+    .tab {
+        padding-left: 2em;
+        text-align: center;
+        padding-right: 2em;
+    }
+    .titlp{
+        font-size: 15px;
+        margin:5% 0 2% 0;
+    }
+    .textc{
+        font-size: 18px;
+    }
+    .imgmarcas{
+        margin:0 0 15% -3%;
+    }
+    #izquierda{
+        background-color: #FFF; 
+        width: 100%;
+        margin-bottom: 10%; 
+        float:none;
+        position: relative;
+    }
+
+    .btninvitado a{
+        font-size: 16px;
+        color: #fff;
+    }
+
+    .form-control{
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .etcard{
+        font-size: 16px;
+        padding: 7px 0;
+    }
+
+    .btnproceder{
+        font-size: 16px;
+        padding: 12px 40px;
+    }
+
+    .separador{
+        display: none;
+    }
+
+    .sub span, .envio span{
+        margin-right: 35px;
+    }
+
+    .terminos{
+        margin-left: 55px;
+    }
+
+    .total span{
+        margin-right: 35px;
+    }
+
+    .btnsesion{
+        display: none;
+        text-align: center;
+        margin-top: 2%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .tipo-tarjeta{
+        margin-left: 25%;
+    }
+    .formas{
+        margin-left: 0%;
+    }
+
+    #cuerpo{
+        height: 100%;
+        overflow: hidden;
+        display: block;
+    }
+
+    .tipo-pago-bl{
+        display: inline-block;
+    }
+
+    .derecha{ 
+        background-color: #F8F9F9;
+        width: 100%; 
+        position: relative;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        right: 0px;
+        max-height: 86.3%;
+        left: 0;
+    }
+    .imgcheck{
+        display: none;
+    }
+
+    .tit-datos {
+        font-size: 15px;
+    }
+    .autor-datos {
+        font-size: 13px;
+    }
+    .pre-datos {
+        font-size: 15px;
+    }
+    .cantidad{
+        font-family: 'circularMedium';
+        color: gray;
+    }
+
+    .descuentos input{
+        margin-left: 10px;
+        width: 40%;
+        font-size:16px;
+        padding: 7px 0;
+    }
+    .descuentos a{
+        text-decoration:none;
+        border-radius: 5px;
+        position: absolute;
+        margin-left: 20px;
+        background-color: #3fa3a5;
+        padding: 12px 50px;
+        font-family: 'circularBook';
+        color: #fff;
+        font-size: 16px;
+    }
+
+    .t-punt{
+        font-size: unset;
+    }
+
+    .usar-puntos span{
+        margin-left: 10px;
+        width: 40%;
+        font-size:14px;
+        padding: 7px 0;
+    }
+    .usar-puntos a{
+        text-decoration:none;
+        border-radius: 5px;
+        position: absolute;
+        margin-left: 20px;
+        background-color: #3fa3a5;
+        padding: 12px 35px;
+        font-family: 'circularBook';
+        color: #fff;
+        font-size: 16px;
+    }
+
+    .btnpago-check{
+        border-radius: 5px;
+        width: 80%;
+        text-align: center;
+        margin-left: 10%;
+        font-family: 'circularBook';
+        pointer-events: none;
+        cursor: default;
+        padding: 12px 50px;
+        font-size: 16px;
+    }
+    .btnpago-activo{
+        border-radius: 5px;
+        width: 80%;
+        margin-left: 10%;
+        font-family: 'circularBook';
+        text-align: center;
+        padding: 12px 50px;
+        font-size: 16px;
+    }
+    /***************************************bolsa *********************************/
+    .imgprod {
+        width: 130px;
+        margin-left: 0;
+    }
+
+    .titprod {
+        text-align: center;
+        margin: 0px; 
+        font-family: 'circularMedium';
+    }
+    .tit-prod {
+        text-transform: uppercase;
+        margin: 5% 0 0 0;
+        font-family: 'circularMedium';
+        color: #1f5b5f;
+        font-size: 15px;
+    }
+    .pre-prod {
+        font-family: 'circularBlack';
+        font-size: 15px;
+        margin-bottom: 0%;
+    }
+
+    .pleca-promo-libro-checkout{
+        display: none;
+    }
+
+    .pleca-promo-libro-confirma{
+        top: 40px;
+        margin-right: 20px;
+        left: 0;
+    }
+
+    .backHome{
+        font-size: 16px;
+    }
+
+    .pleca-promo-libro-rel{
+        margin-left: 19%;
+        margin-top:20px;
+    }
+
+    .left-bol{
+        width: 100%;
+    }
+
+    .right-bol{
+        display: inline-block;
+        width: 100%;
+    }
+
+    .inputcant {
+        width: 15%;
+        border-radius: 0;
+    }
+    .titsub {
+        font-size: 20px;
+        margin-left: 0;
+        font-family: 'circularBlack';
+        text-align: center;
+    }
+    .pre-sub {
+        margin-top: 0%;
+        margin-left: 0;
+        font-family: 'circularBlack';
+        font-size: 20px;
+        text-align: center;
+    }
+    .men-sub {
+        margin-left: 0;
+        font-family: 'circularBook';
+        font-size: 17px;
+        color: gray;
+        text-align: center;
+    }
+    .btnpago{
+        border-radius: 5px;
+        position: relative;
+        background-color: #1f5b5f;
+        left: 5%;
+        padding: 12px 80px;
+        width: 90%;
+        margin-top: 3%;
+        font-family: 'circularBook';
+        text-align: center;
+    }
+    .btnpago a{
+        color: #fff;
+        font-size: 16px;
+        text-align: center;
+    }
+    #bus {
+        margin: 8% 5% 40% 0%;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .dot {
+        display: inline-block;
+        top: -3.5px;
+    }
+
+    .addbolsa-rel{
+        width: 100%;
+        padding: 10px 11px;
+        font-size: 16px;
+    }
+
+    .librel:last-child {
+        display:none;
+    }
+
+    .titulonav{
+        margin-left: 9%;
+        margin-bottom: 10px;
+        display: none;
+    }
+
+    .titulonavMobile{
+        text-align: justify;
+        font-family: 'circularMedium';
+        font-size: 12px;
+        color: #a5a5a5;
+        display: block;
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+
+    .catalogo{
+        display: none;
+    }
+
+    .row{
+        margin: 0 auto;
+    }
+
+    .center{
+        text-align: center;
+        color: #1f5b5f;
+        font-size: 14px;
+        padding-top: 2%;
+    }
+
+    .titulonavMobile a{
+        color: unset;
+        margin-left: 8%;
+    }
+
+    .titulonavMobile a:hover{
+        color: unset;
+        text-decoration: none;
+    }
+
+    .menucat{
+        display: none;
+    }
+
+    #cat{
+        margin: 0% 0% 5% 0%;
+    }
+
+    .cattodo{
+        margin-left: 0;
+    }
+
+    #btnSeguir-mob{
+        display: block;
+    }
+
+    #btnSeguir{
+        display: none;
+    }
+
+    .burbuja{
+        right: 18.5%;
+    }
+    .recuadro-promo{
+        margin-top: 30px;
+        height: 100%;
+    }
+    .info-promo{
+        width: 100%;
+        top: 4%;
+        left: 0;
+    }
+
+    .contorno{
+        font-size: 42px;
+    }
+
+    .promo-tit{
+        font-size: 20px;
+    }
+
+    #textorebaja{
+        height: 45px;
+        display: inline-block;
+    }
+
+    #matrix-prop {
+        transform: matrix(1, 0, 0, 1, 4.052, 39.258);
+    }
+
+    .fechas {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+
+    .pleca-igna{
+        height: 25px;
+    }
+
+    .tit-promo{
+        font-size: 35px;
+    }
+
+    .tit-descuento{
+        font-size: 85px;
+    }
+
+    .btnPromo{
+        margin-top: 0%;
+    }
+
+    .cent-promo{
+        margin-top: 20%;
+    }
+
+    .tit-min-promo {
+        font-size: 13px;
+        bottom: 40%;
+        right: 51%;
+    }
+
+    .btnPromo a{
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .img-lib-ped-cl{
+        display: none;
+    }
+
+    .table-info-lib{
+        text-align: center;
+        float: unset;
+        margin: 10px auto;
+    }
+
+    .table-info-lib b{
+        font-size: 14px;
+    }
+
+    .fed-im-lg{
+        display: none;
+    }
+
+    .play-img, .download-ico{
+        float: unset;
+        margin-top: 10px;
+        margin-left: 25%;
+        display: inline-block;
+    }
+
+    .play-img:hover, .download-ico:hover{
+        float: unset;
+        margin-top: 10px;
+        margin-left: 25%;
+        display: inline-block;
+    }
+
+    #audios-new .textc{
+        width: 100%;
+    }
+
+    .pl-dow span{
+        display: block;
+    }
+
+    #audios-new{
+        height: 80vh;
+        padding-top: 40px;
+    }
+
+    .newsl{
+        display: none;
+    }
+
+    .bannerTerror{
+    }
+
+    .textoTerror{
+        background: url('../images/textoTerrorR.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 8%;
+        position: relative;
+        display: inline-block;
+        top: 0;
+        left: 0;
+    }
+
+    .librosTerror{
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 50%;
+        position: relative;
+        left: 0;
+        display: inline-block;
+        top: 5%;
+    }
+
+    .relatosTerror{
+        background-position: center;
+        width: 100%;
+        height: 35%;
+        display: inline-block;
+        position: relative;
+        left: 0;
+        top: 0;
+    }
+
+    .center-xs {
+        text-align: center;
+    }
+
+    .row-datos-carrito2 > div{
+        padding: 0;
+    }
+    .row-datos-carrito > div{
+        padding-left: 0;
+    }
+    .campo-cupon-mob{
+        padding: 0 4px 0 0;
+    }
+    .boton-cupon-mob{
+        padding: 0 0 0 4px;
+    }
+    .img-contenedor-libro{
+        max-height: 230px;
+    }
+    .social-nav{
+        margin-right: 12px;
+    }

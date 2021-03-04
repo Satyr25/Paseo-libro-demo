@@ -1,0 +1,110 @@
+@media (max-width: 425px)
+{
+	.contorno {
+	    font-size: 50px!important;
+	}
+	.promo-tit {
+	    font-size: 25px!important;
+	}
+
+	.login-user{
+	    width: 100%;
+	    height: calc(100% - 85px);
+	}
+
+	.men-desk{
+	    display: none;
+	}
+
+	.men-mob{
+	    display: inline-block;
+	}
+
+	.terminos-detalle{
+	    width: 100%;
+	    margin-left: 0%;
+	    padding-top: 5%;
+	    font-size: 16px;
+	}
+
+	.newsl{
+	    display: none;
+	}
+
+	.bannerTerror{
+	}
+
+	.textoTerror{
+	    background: url('../images/textoTerrorR.png');
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    background-position: center;
+	    width: 100%;
+	    height: 8%;
+	    position: relative;
+	    display: inline-block;
+	    top: 0;
+	    left: 0;
+	}
+
+	.librosTerror{
+	    background-size: contain;
+	    background-repeat: no-repeat;
+	    background-position: center;
+	    width: 100%;
+	    height: 50%;
+	    position: relative;
+	    left: 0;
+	    display: inline-block;
+	    top: 5%;
+	}
+
+	.relatosTerror{
+	    background-position: center;
+	    width: 100%;
+	    height: 35%;
+	    display: inline-block;
+	    position: relative;
+	    left: 0;
+	    top: 0;
+	}
+    .checkout-continuar-envio{
+        height: 38px;
+    }
+    .pago-imagen{
+        max-width: 30px;
+        margin: 0 2px;
+    }
+    .row-resumen-mob, .row-envios-mob{
+        background-color: #f9f9f9;
+        padding: 20px 15px 20px;
+        border: 6px solid white;
+    }
+    
+    #buscar::-webkit-input-placeholder{
+        color: #0168b3;
+        font-family: circularBook;
+        font-size: 20px; 
+    }
+    #buscar:-moz-placeholder{
+        color: #0168b3;
+        opacity: 1;
+        font-family: circularBook;
+        font-size: 20px; 
+    }
+    #buscar::-moz-placeholder{
+        color: #0168b3;
+        opacity: 1;
+        font-family: circularBook;
+        font-size: 20px; 
+    }
+    #buscar::-ms-input-placeholder { 
+        color: #0168b3;
+        font-family: circularBook;
+        font-size: 20px; 
+    }
+    #carrusel-titulo{
+/*        top: 110px;*/
+        font-size: 20px;
+    }
+}

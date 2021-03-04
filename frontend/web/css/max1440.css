@@ -1,0 +1,14 @@
+@media (min-width:1301px) and (max-width: 1440px){
+
+	.librosTerror{
+		width: 50%;
+		bottom: 10%;
+		height: 35%;
+	}
+	.relatosTerror{
+		height: 35%;
+	}
+	.textoTerror{
+		height: 41%;
+	}
+}

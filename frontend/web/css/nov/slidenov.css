@@ -1,0 +1,227 @@
+@font-face {
+    font-family: 'circularBlack';
+    src: url('../fonts/circularBlack/CircularStd-Black.eot');
+    src: url('../fonts/circularBlack/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularBlack/CircularStd-Black.woff2') format('woff2'),
+        url('../fonts/circularBlack/CircularStd-Black.woff') format('woff'),
+        url('../fonts/circularBlack/CircularStd-Black.ttf') format('truetype'),
+        url('../fonts/circularBlack/CircularStd-Black.svg#CircularStd-Black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularBlackItalic';
+    src: url('../fonts/circularBlackItalic/CircularStd-BlackItalic.eot');
+    src: url('../fonts/circularBlackItalic/CircularStd-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularBlackItalic/CircularStd-BlackItalic.woff2') format('woff2'),
+        url('../fonts/circularBlackItalic/CircularStd-BlackItalic.woff') format('woff'),
+        url('../fonts/circularBlackItalic/CircularStd-BlackItalic.ttf') format('truetype'),
+        url('../fonts/circularBlackItalic/CircularStd-BlackItalic.svg#CircularStd-BlackItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularBoldItalic';
+    src: url('../fonts/circularBlack/CircularStd-BoldItalic.eot');
+    src: url('../fonts/circularBlack/CircularStd-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularBlack/CircularStd-BoldItalic.woff2') format('woff2'),
+        url('../fonts/circularBlack/CircularStd-BoldItalic.woff') format('woff'),
+        url('../fonts/circularBlack/CircularStd-BoldItalic.ttf') format('truetype'),
+        url('../fonts/circularBlack/CircularStd-BoldItalic.svg#CircularStd-BoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularBook';
+    src: url('../fonts/circularBook/CircularStd-Book.eot');
+    src: url('../fonts/circularBook/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularBook/CircularStd-Book.woff2') format('woff2'),
+        url('../fonts/circularBook/CircularStd-Book.woff') format('woff'),
+        url('../fonts/circularBook/CircularStd-Book.ttf') format('truetype'),
+        url('../fonts/circularBook/CircularStd-Book.svg#CircularStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularBookItalic';
+    src: url('../fonts/circularBookItalic/CircularStd-BookItalic.eot');
+    src: url('../fonts/circularBookItalic/CircularStd-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularBookItalic/CircularStd-BookItalic.woff2') format('woff2'),
+        url('../fonts/circularBookItalic/CircularStd-BookItalic.woff') format('woff'),
+        url('../fonts/circularBookItalic/CircularStd-BookItalic.ttf') format('truetype'),
+        url('../fonts/circularBookItalic/CircularStd-BookItalic.svg#CircularBookItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularMedium';
+    src: url('../fonts/circularMedium/CircularStd-Medium.eot');
+    src: url('../fonts/circularMedium/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularMedium/CircularStd-Medium.woff2') format('woff2'),
+        url('../fonts/circularMedium/CircularStd-Medium.woff') format('woff'),
+        url('../fonts/circularMedium/CircularStd-Medium.ttf') format('truetype'),
+        url('../fonts/circularMedium/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circularMediumItalic';
+    src: url('../fonts/circularMediumItalic/CircularStd-MediumItalic.eot');
+    src: url('../fonts/circularMediumItalic/CircularStd-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularMediumItalic/CircularStd-MediumItalic.woff2') format('woff2'),
+        url('../fonts/circularMediumItalic/CircularStd-MediumItalic.woff') format('woff'),
+        url('../fonts/circularMediumItalic/CircularStd-MediumItalic.ttf') format('truetype'),
+        url('../fonts/circularMediumItalic/CircularStd-MediumItalic.svg#CircularStd-MediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.slick-prev
+{
+    border-radius: 50%;
+    font-size: .5px;
+    line-height: 0;
+    left: 1%;
+    position: absolute;
+    top: 55%;
+    display: block;
+    z-index: 1;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: #3fa3a5;
+}
+.slick-next
+{
+    border-radius: 50%;
+    font-size: 0;
+    line-height: 0;
+    left: 96%;
+    position: absolute;
+    top: 55%;
+
+    display: block;
+
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+
+    cursor: pointer;
+
+    color: transparent;
+    border: none;
+    outline: none;
+    background: #3fa3a5;
+}
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus
+{
+    color: #3fa3a5;
+    outline: none;
+    background: transparent;
+}
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before
+{
+    opacity: 1;
+}
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before
+{
+    opacity: .25;
+}
+.slick-prev:before,
+.slick-next:before
+{
+    font-family: 'slick';
+    font-size: 15px;
+    line-height: 1;
+    font-family: 'circularBlack'
+    opacity: .75;
+    color: white;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev:before
+{
+    content: '<';
+}
+[dir='rtl'] .slick-prev:before
+{
+    content: '>';
+}
+
+.slick-next:before
+{
+    content: '>';
+}
+[dir='rtl'] .slick-next:before
+{
+    content: '<';
+}
+
+figcaption {
+  display:none; 
+  transition: all .5s;
+}
+/* Visible texto */
+figure:hover > figcaption {
+  display:block;
+  transition: all .5s;
+}
+.vista-rap {
+    position: relative;
+    margin-top: -20%;
+    right: 70px;
+}
+#btnVistaNov{
+    background-color:#FFF;
+    border-radius:15px;
+    width: 45%;margin:auto;
+    font-size:10px;
+    padding: 3px;
+}
+#btnVistaNov a{
+    color: #43a5aa;
+}
+
+#btnVistaNov a {
+    color: #43a5aa;
+    margin-left: 25%;
+    text-align: center;
+}
+.tit-rel{
+        color: #1f5b5f;
+        font-size: 25px;
+        font-family: 'circularBlack';
+        margin: 15% 0 0 7%;
+    }
+.librel{
+    width:70%;
+    margin:auto;
+}
+.colrel{
+    width: 23%;
+    margin-top: 5%;
+    margin-right: 10%;
+    float: left;
+    
+}
+.colrel img{
+    width: 100%;
+}

@@ -1,0 +1,70 @@
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+
+#portas y fondos
+/frontend/web/images/portadas
+/frontend/web/portadas
+/frontend/web/images/fondos
+/frontend/web/fondos
+/frontend/web/images/eventos
+
+/backend/web/images/fondos
+/backend/web/fondos
+/backend/web/images/portadas
+/backend/web/portadas
+/backend/web/images/eventos
+
+/backend/web/images/editoriales
+/frontend/web/images/editoriales
+
+
+#label track fedex
+/frontend/web/label
+/backend/web/label
+
+#front htaccess
+/frontend/web/.htaccess
+
+#ini
+/frontend/paypal.ini
+/frontend/fedex.ini
+/frontend/facebook.ini
+/frontend/private.ini
+/backend/private.ini
+/frontend/web/.htaccess
+/frontend/facebook.ini
+/frontend/web/images/carrusel
+/backend/web/images/carrusel

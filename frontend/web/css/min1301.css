@@ -1,0 +1,62 @@
+@media (min-width:1301px){
+.imgLogo{
+    width: 15%;
+    margin-right: 7%;
+}
+#navbar a {
+    font-size: 20px;
+}
+select{
+    font-size: 20px;
+}
+#busqueda input {
+    font-size: 19px;
+}
+#iconos img {
+    width: 90%;
+}
+.slid-mob{
+    display: none;
+}
+.portada-mob{
+    display: none;
+}
+#nombre-lib {
+    font-size: 120px;
+    line-height: 100px;
+}
+
+#autor-lib {
+    font-size: 90px;
+}
+#foot input{
+    left: -60%;
+}
+
+#gracias{
+    text-align:center;
+    padding-bottom: 10%;
+}
+.contimg {
+    float: left;
+
+    padding-left: 190px;
+}
+.imgGracias {
+    padding-left: 350px;
+}
+
+#redes{
+    position:absolute;left:90%;top:255%;
+}
+#redes div{
+    margin: 65% 0;
+}
+#regRecom input{
+    left: 38%;
+}
+
+#formcontact{
+    width:25%;
+}
+}

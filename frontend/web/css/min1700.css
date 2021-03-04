@@ -1,0 +1,1200 @@
+@media (min-width:1700px){
+@font-face {
+    font-family: 'circularMedium';
+    src: url('../fonts/circularMedium/CircularStd-Medium.eot');
+    src: url('../fonts/circularMedium/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/circularMedium/CircularStd-Medium.woff2') format('woff2'),
+        url('../fonts/circularMedium/CircularStd-Medium.woff') format('woff'),
+        url('../fonts/circularMedium/CircularStd-Medium.ttf') format('truetype'),
+        url('../fonts/circularMedium/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.slideshow-container {
+    height: 700px;
+}
+    #onda-carrusel{
+        /* top: 740px; */
+    }
+    .editorial-nav{
+        font-size: 18px;
+    }
+    #nav-uppl{
+        height: 75px;
+    }
+    #nav-uppl > div > a{
+        margin: 20px;
+        color: white;
+        font-size: 18px;
+    }
+    #pad-nav{
+        height: 240px;
+    }
+
+    #buscar::-webkit-input-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    #buscar:-moz-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    #buscar::-moz-placeholder{
+        color: #0168b3;
+        font-size: 21px;
+    }
+    #wrap-vendidos > div > div > div > p{
+        font-size: 30px;
+    }
+    #wrap-promociones > div > div > div > p{
+        font-size: 30px;
+    }
+    #wrap-recomendacion > div > div > div > p{
+        font-size: 30px;
+    }
+    #wrap-agenda > div > div > div > p{
+        font-size: 30px;
+    }
+    #wrap-editoriales-index > div > div > div > p{
+        font-size: 30px;
+    }
+    #contacto > div > div > div > .titulo-contacto{
+        font-size: 30px;
+    }
+    .row-regresar > div > h2{
+        font-size: 30px;
+    }
+    .titulo-categoria{
+        font-size: 30px;
+    }
+    .titulo-tema{
+        font-size: 30px;
+    }
+    .row-ficha-ver > div > .ver-titulo{
+        font-size: 28px;
+    }
+    #catalogo-container > .row > .col-md-4 > h3{
+        font-size: 30px;
+    }
+    #wrap-vendidos > div  > div > .col-md-2 > p {
+        font-size: 16px;
+    }
+    #wrap-vendidos > div  > div > .col-md-2 > p:nth-child(2) {
+        font-size: 14px;
+    }
+    #wrap-vendidos > div > div > .col-md-2 > p:nth-child(3) {
+        font-size: 18px;
+    }
+    .tarjeta-libro > p:nth-child(2){
+        font-size: 16px;
+    }
+    .tarjeta-libro > p:nth-child(3){
+        font-size: 14px;
+    }
+    .tarjeta-libro > p:nth-child(4){
+        font-size: 18px;
+    }
+    #contacto > div > div > div > .texto-contacto{
+        font-size: 16px;
+    }
+    .row-ficha-ver > div > div > div > .ver-precio{
+        font-size: 32px;
+    }
+    .row-ficha-ver > div > .ver-descripcion{
+        font-size: 21px;
+        line-height: 25px;
+    }
+    #contacto > div > div > div > div > p{
+        font-size: 21px;
+    }
+    #contacto > div > div > div > div > div > div > p{
+        font-size: 16px;
+    }
+    #div-mapa{
+        height: 278px;
+    }
+    .row-ficha-ver > div > .ver-autor{
+        font-size: 24px;
+    }
+    .ver-tabla > tbody > tr > td:first-child{
+        font-size:  21px;
+    }
+    .ver-tabla > tbody > tr > td:last-child{
+        font-size: 21px;
+    }
+    .row-ficha-ver > div > .azul{
+        font-size: 21px;
+    }
+    .row-ficha-ver > div > .negro{
+        font-size: 24px;
+    }
+    .slick-slide > .vendidos-carrusel-titulo{
+        font-size: 18px;
+    }
+    .slick-slide > .vendidos-carrusel-autor{
+        font-size: 14px;
+    }
+    ..slick-slide > .vendidos-carrusel-precio{
+        font-size: 18px;
+    }
+    .contenedor{
+        right: 9%;
+    }
+    .slick-slide > .agenda-carrusel-titulo:first-of-type{
+        font-size: 18px;
+    }
+    .slick-slide > .agenda-carrusel-titulo{
+        font-size: 16px;
+    }
+    #categorias-contenedor{
+        font-size: 18px;
+    }
+    #categoria-selector-row{
+        font-size: 18px;
+    }
+
+    .login-block{
+        width: 45%;
+    }
+    .login-block .title{
+        font-size: 30px;
+    }
+    .login-block .explanation{
+        font-size: 21px;
+    }
+    .light-blue{
+        font-size: 18px;
+    }
+    .dark-blue{
+        font-size: 18px;
+    }
+
+    .index-login::-webkit-input-placeholder{
+        font-size: 18px;
+    }
+    .index-login:-moz-placeholder{
+        font-size: 18px;
+    }
+    .index-login::-moz-placeholder{
+        font-size: 18px;
+    }
+    .index-login::-ms-input-placeholder {
+        font-size: 18px;
+    }
+    .input-resignup-contacto{
+        font-size: 18px;
+        height: 45px;
+    }
+    .btn-actualizar-usuario{
+        font-size: 18px;
+        height: 40px;
+    }
+    .btn-actualizar-cliente{
+        font-size: 18px;
+        height: 40px;
+    }
+    .label-cliente{
+        font-size: 14px;
+        padding: 7px 10px 0;
+    }
+    .input-resignup-envio{
+        height: 30px;
+        font-size: 18px;
+    }
+    .field-cliente-pais-id > div > span > span > .select2-selection,
+    .field-cliente-estado-id > span > span > .select2-selection--single{
+        height: 30px;
+        font-size: 18px;
+    }
+    #ubicacion > div > div > div > .titulo-contacto{
+        font-size: 30px;
+    }
+    .canjear-cupon2{
+        font-size: 18px;
+    }
+    .checkout-continuar-envio{
+        font-size: 18px;
+    }
+
+    .contenedor2-carr {
+        right: 6.7%;
+    }
+    .vendidos-carrusel-titulo{
+        font-size: 18px;
+    }
+    .vendidos-carrusel-autor{
+        font-size: 15px;
+    }
+    .vendidos-carrusel-tema{
+        font-size: 12px;
+    }
+
+.imgLogo{
+    width: 15%;
+    margin-right: 7%;
+    margin-top: -8px;
+}
+#navbar a {
+    font-size: 20px;
+}
+select{
+    font-size: 20px;
+}
+
+.modal-term-fal{
+    width: 36% !important;
+}
+
+#bvacia {
+    margin-top: calc(5% + 124px);
+}
+
+.tit-puntos{
+    font-size: 25px;
+}
+
+.esp-2{
+    font-size: 50px;
+}
+
+.que-es{
+    font-size: 25px;
+}
+
+.loader{
+    margin-left: auto!important;
+}
+
+.dat-user-com{
+    padding-top: 125px;
+}
+
+.btnPromo{
+    background-color:#43a5aa;
+    border-radius:5px;
+    width: 45%;
+    margin:auto;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.btnPromo:hover{
+    background-color:#fff;
+}
+
+.tit-pre-dat{
+    font-size:26px;
+}
+
+.modal-body-terminos {
+    padding: 0;
+    margin: 5% 10%;
+}
+
+.help-correo{
+    margin-top: 65px;
+    left: 50%;
+    font-size: 18px;
+}
+
+.help-correo2 {
+    left: 30%;
+    margin-top: 80px;
+    font-size: 20px;
+}
+
+.btnRegistrar2{
+    padding: 13px 40px;
+}
+
+.btnRegistrar2 a{
+    font-size: 25px;
+}
+
+#btnSeguir{
+    margin: auto auto auto 74%;
+}
+
+.regresarlista{
+    padding-top: 45px;
+}
+
+#busqueda{
+    height: 32px;
+    margin-top: 7px;
+}
+
+.backHome{
+    font-size: 18px;
+}
+
+#busqueda input {
+    font-size: 19px;
+}
+
+#iconos{
+    /*float: right;
+    position: absolute;
+    left: 95%;
+    top: 4%;*/
+}
+
+.icono_editar{
+    width: auto;
+}
+
+.pleca-promo{
+    padding: 5px 10px;
+    top: 50px;
+}
+
+#iconos img {
+    width: 25px;
+}
+#nombre-lib {
+    font-size: 120px;
+    line-height: 100px;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.form-control{
+    height: 50px;
+    font-size: 25px;
+    border: 1px solid #999;
+}
+
+#colonia_envio option{
+    font-size:20px;
+}
+
+.btnproceder{
+    font-size: 25px;
+    margin-top: 0;
+    padding: 15px 40px;
+    margin-bottom: 15px;
+}
+
+#autor-lib {
+    font-size: 90px;
+    line-height: 1;
+}
+#foot{
+    font-size: 25px;
+}
+
+
+.portada-modal-rel{
+    height: 350px;
+}
+
+
+.btnRegistrar-f:hover{
+    left: 56%;
+    padding: 12.5px 40px;
+}
+
+.colnovindex {
+    margin-top: 0%;
+    min-height: 490px;
+}
+
+.colnov {
+    min-height: 530px;
+}
+
+.btnRegistrar {
+    left: 56%;
+    font-size: 25px;
+    padding: 12.5px 40px;
+}
+
+.clear{
+    padding-bottom: 5%;
+}
+
+.btnpago{
+    padding: 13px 27px;
+}
+
+.btnpago a{
+    font-size: 25px;
+    font-family: circularBook;
+}
+
+.btnRegistrar:hover{
+    left: 56%;
+    font-size: 25px;
+    padding: 12.5px 40px;
+}
+
+.titulot{
+    height: 100px;
+    font-size: 16px;
+}
+
+
+#redes{
+    position:absolute;
+    right:20%;
+}
+
+.thanks{
+    width: 100%;
+}
+
+#btnSeguimiento{
+    width: 14.3%;
+}
+
+#gracias{
+    margin: 2% 0;
+}
+.txtgracias{
+    font-size:24px;
+    text-align: center;
+    margin:0 20%;
+    padding-bottom:4%;
+}
+.txtgracias p{
+    font-size:23px;
+}
+
+.txtgracias p b{
+    font-size:25px;
+}
+
+/*novedades*/
+#novedades{
+    background-color: #f4f6f6;
+    text-align: center;
+}
+.titlnov {
+    color: #1f5b5f;
+    font-size: 35px;
+    font-family: 'circularBlack';
+    padding-top: 0%;
+}
+.contimgnov {
+    float: left;
+    padding-top: 1%;
+}
+.imgNov {
+    margin-left: 100%;
+    padding: 90px;
+    -webkit-box-shadow: none;
+}
+.titulon {
+    margin-top: 1%;
+    margin-left: 150%;
+    font-size: 15px;
+    font-family: 'circularMedium';
+}
+.precio {
+    color: #4a235a;
+    margin-left: 125%;
+    font-size: 15px;
+    font-family: 'circularBlack';
+}
+
+.producto{
+    height:330px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.imgprod{
+    align-self: center;
+}
+
+.portada{
+    height: 400px;
+}
+
+#portada-modal{
+    min-height: 455px;
+}
+
+
+#redes div{
+}
+#regRecom input{
+    left: 34%;
+    width: 22%;
+    font-size: 25px;
+    padding: 8px 30px;
+    height: 50px;
+}
+
+#formcontact{
+    width:25%;
+}
+
+#fb-tamaño {
+    width: 27px;
+}
+
+#redes-tamaño{
+    width: 27px;
+}
+
+.bolsaindex{
+    padding-top: calc(5% + 124px);
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.numbolsa {
+    font-size: 15px;
+    bottom: 50%;
+    padding: 1px 5px;
+}
+
+#icono-bolsa {
+/*    width: auto;
+    height: 30px;
+    left: 32%;
+    position: relative;
+    top:8px;*/
+}
+
+.bolsa-carrito{
+    /*display: inline-block;*/
+}
+
+#icono-bolsa img{
+    width: 100%;
+}
+
+.modal-header {
+}
+
+.comprarbolsa{
+    padding: 12px 0;
+    font-size: 16px;
+}
+
+.max-width-bolsa{
+    max-width: 640px;
+}
+
+.mensaje-carrito{
+    font-size: 28px;
+}
+
+.addbolsa{
+    left: 67%;
+    padding: 12px 0;
+    font-size: 16px;
+}
+
+.pleca-promo-libro-rel{
+    font-size: 23px;
+}
+
+.pleca-promo-libro-checkout{
+    font-size: 20px;
+    left: 19%;
+}
+
+.addbolsa-rel{
+    font-size: 25px;
+    padding: 12px 0;
+}
+
+.texto-mod {
+    font-size: 23px;
+    line-height: 28px;
+}
+
+.datos-libro-detalle{
+    font-size: 21px;
+}
+
+.precio-mod .promo{
+    font-size: 28px;
+}
+
+.pleca-promo-libro{
+    font-size: 25px;
+    right: 10%;
+}
+
+.precio-mod .orig{
+    font-size: 25px;
+}
+
+.titulo-mod {
+    font-size: 35px;
+}
+
+.addbolsa a{
+    font-size: 16px;
+}
+
+.tit-rel{
+    font-size: 35px;
+    display: inline-block;
+    width: 84%;
+    margin: 3% 0 0% 8%;
+}
+
+.titulo-novrel{
+    font-size: 23px;
+}
+
+.precio-novrel{
+    font-size: 23px;
+}
+
+.librel{
+    margin: 5% 10%;
+}
+
+.cont-tit-rel{
+}
+
+.tit-lib{
+    font-size: 16px;
+}
+
+.titulo-nov {
+    margin-top: 4%;
+    font-size: 18px;
+    color: #383838;
+}
+
+.precio-nov {
+    font-weight: bold;
+}
+
+.marcas {
+    width: 60%;
+}
+
+.colrel img{
+    width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
+
+.etcorreo{
+    padding: 15px 10px;
+    font-size: 25px;
+}
+
+.login-user{
+    height: calc(100% - 123.73px);
+}
+
+.btninvitado{
+    font-size: 25px;
+    padding: 12px 35px;
+}
+
+.btnsesion{
+    padding: 12px 102px;
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+.tit-log{
+    font-size: 30px;
+}
+
+.titulo-cont h3{
+    font-size: 30px;
+}
+
+#datos-cont h3:after{
+    font-size: 15px;
+}
+
+#datos-env h3:after{
+    font-size: 15px;
+}
+
+#datos-ped h3:after{
+    font-size: 15px;
+}
+
+#mostrar-botones{
+    height: 110px;
+}
+
+.etcard{
+    padding: 0 1%;
+    font-size: 25px;
+    height: 50px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #999;
+}
+
+.etuno p{
+    font-size: 25px;
+    margin: 15px 0px;
+}
+
+.tipo-pago{
+    color: #999;
+    font-size: 25px;
+    font-family: 'circularMedium';
+    font-weight: normal;
+    margin-left: 15px;
+}
+
+.tipo-pago-bl{
+    color: #273746;
+    font-size: 25px;
+    font-family: 'circularMedium';
+    font-weight: normal;
+    margin-left: 15px;
+}
+
+.precio-envio{
+    margin-left: 10%;
+    font-size: 25px;
+}
+
+.fedex .etuno{
+    margin: 25px 0;
+}
+
+.span-negro{
+    margin-left: 15px;
+    color: #999;
+    font-size: 25px;
+    font-family: circularMedium;
+    font-weight: normal;
+}
+
+.etuno img{
+    width: 50px !important;
+    margin-left: 50%;
+}
+
+.paypal-img{
+    display: inline-block;
+}
+
+#mostrar-datos-pago{
+    margin-top: 25px;
+}
+
+#mostrar-datos-pago .etuno{
+    margin-bottom: 25px;
+}
+
+#tarjetaselect .etuno{
+    margin-bottom: 5px;
+}
+
+.paypal-img img{
+    width: 70px!important;
+}
+
+#izquierda h3{
+    font-size: 30px;
+    text-transform: unset;
+    font-family: 'circularMedium';
+    font-weight: normal;
+}
+
+input, button, select, textarea{
+    font-family: 'circularMedium';
+}
+
+.preciot {
+    font-size: 18px;
+}
+
+.texto-contacto {
+    font-size: 18px;
+}
+
+.redes-contacto{
+    margin-top: 8%;
+}
+
+.recuerdame{
+    font-size: 18px;
+}
+
+.recuerdame span{
+    margin-left: 5px;
+    position: relative;
+    top: -3px;
+}
+
+.btniniciar{
+    padding: 15px 37px;
+    width: 92%;
+    font-size: 18px;
+}
+
+.subtit-log{
+    font-size: 20px;
+}
+
+.btnInicia{
+    font-size: 25px;
+    width: 100%;
+    border: none;
+    padding: 8px 0;
+}
+
+.pre-datos{
+    margin: 10px 0;
+}
+
+.sub-total{
+    font-size: 20px;
+}
+
+.sub, .envio{
+    margin: 10px 0;
+}
+
+.sub span, .envio span{
+    margin-right: 260px;
+}
+
+.total{
+    font-size: 20px;
+}
+
+.total span{
+    margin-right: 260px;
+}
+
+.descuentos a{
+    padding: 17px 45px;
+    font-size: 20px;
+}
+
+.usar-puntos a{
+    padding: 17px 24px;
+    font-size: 20px;
+}
+
+.btnpago-check{
+    width: 63%;
+    padding: 15px 230px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.descr-lib {
+    padding-top: 125px;
+}
+
+.cantidad{
+    font-size: 18px;
+}
+
+.btnpago-activo{
+    width: 63%;
+    padding: 15px 230px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.descuentos input{
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 20px;
+}
+
+.usar-puntos span{
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.terminos{
+    font-size: 18px;
+}
+
+.sin-compra{
+    font-size: 22px;
+}
+
+.btnFb{
+    padding: 15px 0;
+    border: none;
+    font-size: 25px;
+    padding: 8px 0;
+}
+
+.btnfb a{
+    font-size: 18px;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+.olvidaste{
+    margin: 0 80px !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.formas{
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.etmod{
+    font-size: 20px;
+    padding: 15px 90px 15px 15px;
+}
+
+.titulo-login{
+    font-size: 30px;
+}
+
+
+.btnVista-3 a, .btnVista-2 a, .btnVista-1 a, .btnVista-0 a, .btnVista-4 a, .btnVista-5 a, .btnVista-6 a {
+    padding: 13px 0;
+    font-size: 25px;
+}
+
+.btnVista-3 a, .btnVista-2 a:hover, .btnVista-1 a:hover, .btnVista-0 a:hover, .btnVista-4 a:hover, .btnVista-5 a:hover, .btnVista-6 a:hover {
+    padding: 13px 0;
+    font-size: 25px;
+}
+
+
+.btnVermasven, .btnVermas{
+    padding: 13px 40px;
+}
+
+.btnVermasven a, .btnVermas a{
+    font-size: 25px;
+}
+
+.btnVermasven:hover, .btnVermas:hover{
+    padding: 13px 40px;
+}
+
+.btnVermasven a:hover, .btnVermas a:hover{
+    font-size: 25px;
+}
+
+#name{
+    font-size: 14px;
+}
+#email{
+    font-size: 14px;
+}
+
+    .contacto-mensaje{
+        font-size: 14px;
+    }
+    .btnEnviar{
+        font-size: 16px;
+        height: 35px;
+    }
+    #correofoot{
+        font-size: 14px;
+        height: 35px;
+    }
+    .btnRegistrar-f{
+        font-size: 16px;
+        height: 35px;
+    }
+
+#formcontact textarea{
+    font-size: 14px !important;
+}
+
+#foot span{
+    font-size: 18px;
+}
+
+#copy{
+    color: #999;
+}
+
+#copy a{
+    font-size: 14px;
+    color: #d9d9d9;
+}
+.link-boton-regresar{
+    font-size: 18px;
+}
+    .boton-regresar{
+        max-width: 20px;
+    }
+
+#txtContac{
+    margin-top: 12%;
+}
+
+#cont-datos{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+    padding: 0;
+    align-items: center;
+}
+
+.img-portada{
+    width: 77%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+
+.cont-portada{
+    width: 40%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+}
+.slid-mob{
+    display: none;
+}
+.portada-mob{
+    display: none;
+}
+
+.burbuja{
+    right: 5.5%;
+}
+.sliderPromo{
+    height: calc(100% - 125px);
+}
+
+.recuadro-promo{
+    margin-top: 125px;
+}
+
+.info-promo{
+    bottom: 90%;
+    width: 40%;
+}
+
+.contorno{
+    font-size: 117px;
+}
+
+.promo-tit{
+    font-size: 62px;
+}
+
+.pleca-igna{
+    height: 45px;
+}
+
+.fechas {
+    font-size: 25px;
+    padding-top: 14px;
+}
+
+.tit-promo{
+    font-size: 75px;
+}
+
+.tit-descuento{
+    font-size: 140px;
+}
+
+.tit-min-promo{
+    font-size: 19px;
+    right: 51%;
+    bottom: 40%;
+}
+
+.btnPromo a{
+    font-size: 25px;
+    padding: 13px 0;
+    color: #fff;
+}
+
+.terminos-detalle{
+    font-size: 23px;
+}
+
+.btnPromo a:hover{
+    color: #43a5aa;
+}
+
+.recuadro-promo{
+    stroke-dasharray: 5100;
+    stroke-dashoffset: 5100;
+}
+
+.librosTerror{
+    width: 55%;
+    height: 46%;
+    bottom: 3%;
+    left: 10%;
+}
+
+#textorebaja{
+    height: 90px;
+}
+
+#matrix-prop{
+    transform: matrix(1, 0, 0, 1, 4.052, 85.2576);
+}
+
+.poesiaText{
+    font-size: 80px;
+}
+
+.btnPromoPoesia{
+    width: 13%;
+}
+
+.btnPromoPoesia a{
+    font-size: 25px;
+    padding: 12px 0;
+}
+
+@-webkit-keyframes draw-rectangulo {
+  from {
+    stroke-dashoffset: -5100;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@-moz-keyframes draw-rectangulo {
+  from {
+    stroke-dashoffset: -5100;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes draw-rectangulo {
+  from {
+    stroke-dashoffset: -5100;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+}

@@ -1,0 +1,14 @@
+@media (min-width:992px){
+    
+    #contacto a{
+        font-size: 12px;
+    }
+
+    .img-contenedor-libro{
+        max-height: 225px;
+    }
+    .row-carrusel-img2{
+        height: 180px;
+    }
+    
+}
